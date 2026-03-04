@@ -1,8 +1,8 @@
+streamlit
 pandas
 numpy
 scikit-learn
-streamlit
 plotly
+altair
 joblib
 faker
-altair
